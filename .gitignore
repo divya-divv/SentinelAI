@@ -30,3 +30,6 @@ frontend/dist/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# Local backup files
+backend/main_backup.py
